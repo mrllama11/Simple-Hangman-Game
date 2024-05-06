@@ -1,2 +1,2 @@
 # Simple-Hangman-Game
-Simple Hangman
+Simple Hangman Game in java
